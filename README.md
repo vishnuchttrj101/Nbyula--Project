@@ -50,6 +50,11 @@ Automatically run test cases specifically designed for this test environment and
 As an addition feature it generates a log file and output of the code.
 
 
+NOTE:
+
+For Skylift Booking part, please enter the email id and password manually fromm the terminal
+
+
 
 
 

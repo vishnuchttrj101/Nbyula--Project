@@ -1,5 +1,13 @@
 # Nbyula--Project
 Assignment task for nbyula 
+
+ASSIGNEMENT:
+
+
+TASK1: Test plan report 
+TASK2: run script automated.py
+
+
 # ENVIRONMENT SETUP:::
 
 1>Install Python-
@@ -14,6 +22,7 @@ command- pip install selenium
 Link- https://chromedriver.chromium.org/downloads
 
 NOTE: some additional modules are used in the code like time, they must be installed using pip
+NOTE: For windows machine add the location of geckodriver to the path in environment-variable
 
 
 
@@ -39,6 +48,10 @@ ADDITIONAL TESTCASES :::
 
 Automatically run test cases specifically designed for this test environment and finds whether certain functionalities are properly working or not.
 As an addition feature it generates a log file and output of the code.
+
+
+
+
 
 
 
